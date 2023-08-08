@@ -1,6 +1,7 @@
 
 # Pokemon Guide Projesi
 
+![Pokemon Guide Projesi](pokemon.gif)
 
 
 Bu proje, şık ve sade bir tasarıma sahip olan Pokemon Guide uygulamasını içerir. Proje, HTML, CSS ve JavaScript kullanılarak oluşturulmuş olup, Pokemon API kullanılarak çeşitli pokemonların bilgilerini ve resimlerini sunmaktadır. Ayrıca, kullanıcılar arama çubuğunu kullanarak pokemonları isimlerine göre filtreleme imkanına sahiptir.
@@ -22,6 +23,6 @@ Bu proje, şık ve sade bir tasarıma sahip olan Pokemon Guide uygulamasını i�
 - Pokemon API (https://pokeapi.co/api/v2/)
 
 
-![Pokemon Guide Projesi](pokemon.gif)
+
 
 # Pokedex-Guide-project
